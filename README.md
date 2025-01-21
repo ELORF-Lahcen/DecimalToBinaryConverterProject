@@ -45,7 +45,7 @@ Un site web interactif et responsive qui convertit les nombres décimaux en leur
    ```
 2. **Accédez au répertoire du projet** :
    ```bash
-   cd RomanNumeralConverterProject
+   cd DecimalToBinaryConverterProject
    ```
 
 --- 
