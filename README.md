@@ -43,9 +43,9 @@ Un site web interactif et responsive qui convertit les nombres décimaux en leur
    ```bash
    git clone https://github.com/ELORF-Lahcen/DecimalToBinaryConverterProject.git
    ```
-2. **Accédez au répertoire du projet :** :
+2. **Accédez au répertoire du projet** :
    ```bash
-   cd DecimalToBinaryConverterProject
+   cd RomanNumeralConverterProject
    ```
 
 --- 
